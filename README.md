@@ -6,3 +6,6 @@ Conjunto de chips (circuitos integrados) en la placa base de una computadora que
 dispositivos periféricos, como discos duros, puertos USB, y audio.
 2.🔘 **APLICACION**
 es un software o programa informático diseñado para realizar tareas o funciones específicas para un usuario
+3. 😶‍🌫️**DISCO DURO (HDD)**
+Dispositivos de almacenamiento de datos no volátil que usan platos magnéticos giratorios para guardar y recuperar información digital .
+
